@@ -16,7 +16,6 @@ $(() => {
             }
             return "#" + color;
         }
-
         let color = randomColor();
         $('p').css('color', color)
     }, 1000)
