@@ -11,7 +11,7 @@
 .video {
     width: 1000px;
     height: 600px;
-    background-color: black;
+    background-color: #cdcdcd;
     margin: 0 auto;
     color: red;
     text-align: right;
@@ -20,8 +20,6 @@
 .video p {
     color: #3e8e41;
     text-align: right;
-    /*position: fixed;*/
-    /*right: 0;*/
 }
 
 .context {
