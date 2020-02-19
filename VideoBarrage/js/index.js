@@ -1,6 +1,5 @@
 $(() => {
     let video_width = $('#video').css('width');
-    console.log(video_width)
     $('#barrage_btn').click(() => {
         let val_input = $('#barrage_input').val();
         let val = '<p>' + val_input + '</p>';
@@ -16,7 +15,17 @@ $(() => {
             }
             return "#" + color;
         }
+
         let color = randomColor();
-        $('p').css('color', color)
-    }, 1000)
+        $('p').css('color', color);
+    }, 1000);
+    let index = 4;
+    setInterval(()=>{
+        index += 40;
+        let margin_right = index + 'px';
+        $('p').css('right', margin_right);
+        console.log(index);
+    },500)
+
+
 });

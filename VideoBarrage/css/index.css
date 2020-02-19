@@ -9,17 +9,18 @@
 }
 
 .video {
-    width: 1000px;
+    width: 100%;
     height: 600px;
     background-color: #cdcdcd;
     margin: 0 auto;
     color: red;
-    text-align: right;
+    /*text-align: right;*/
 }
 
 .video p {
     color: #3e8e41;
     text-align: right;
+    position: relative;
 }
 
 .context {
