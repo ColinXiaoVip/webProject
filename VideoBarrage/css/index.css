@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    height: auto;
+}
+
+.video {
+    width: 1000px;
+    height: 600px;
+    background-color: black;
+    margin: 0 auto;
+    color: red;
+    text-align: right;
+}
+
+.video p {
+    color: #3e8e41;
+    text-align: right;
+    /*position: fixed;*/
+    /*right: 0;*/
+}
+
+.context {
+    width: 1000px;
+    height: 60px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+
+.context input {
+    width: 776px;
+    height: 56px;
+    border: brown 2px solid;
+    font-size: 30px;
+    padding-left: 20px;
+    float: left;
+    outline: none;
+}
+
+.context button {
+    width: 200px;
+    height: 60px;
+    font-size: 30px;
+    float: left;
+    border: none;
+    background-color: orange;
+    outline: none;
+}
