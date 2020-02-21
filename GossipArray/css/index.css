@@ -1,0 +1,36 @@
+body {
+    background-color: #cdcdcd;
+}
+
+#main {
+    margin-left: 32%;
+    margin-top: 6%;
+    width: 100px;
+    border-bottom: 50px black solid;
+    border-top: 50px white solid;
+    border-radius: 50%;
+    transform:rotate(7deg);
+}
+
+#main:before{
+    content: '';
+    width: 10px;
+    height: 10px;
+    border: 20px white solid;
+    background-color: black;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: -25px;
+}
+
+#main:after{
+    content: '';
+    width: 10px;
+    height: 10px;
+    border: 20px black solid;
+    background-color: white;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: -25px;
+    margin-left: 50px;
+}

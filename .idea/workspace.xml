@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03185448-ebab-4d3f-bbc2-e612ae18f528" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/GossipArray/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GossipArray/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GossipArray/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GossipArray/js/jquery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoBarrage/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/VideoBarrage/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoBarrage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/VideoBarrage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VideoBarrage/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/VideoBarrage/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -45,7 +46,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GossipArray/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -58,6 +59,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GossipArray/js" />
       <recent name="C:\Users\ColinXiao\Desktop\Git\webProject\NeteaseCloudClass\images" />
       <recent name="C:\Users\ColinXiao\Desktop\Git\webProject" />
       <recent name="C:\Users\ColinXiao\Desktop\Git\webProject\HomePage\images" />
@@ -89,7 +91,8 @@
       <workItem from="1573879453287" duration="739000" />
       <workItem from="1573880503789" duration="164000" />
       <workItem from="1582089284127" duration="7543000" />
-      <workItem from="1582106184215" duration="2651000" />
+      <workItem from="1582106184215" duration="3767000" />
+      <workItem from="1582290176730" duration="2996000" />
     </task>
     <servers />
   </component>
